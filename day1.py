@@ -3,3 +3,4 @@ n.append(7)
 
 print(n)
 print(n[2])
+print(n[2:])
