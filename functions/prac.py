@@ -26,27 +26,34 @@
  
 #  greet("eu", "joy")
 
-data = [
-    {
-        "name": "raju",
-        "age" : 18  
-    },
-    {
-        "name":"prasant",
-        "age" :"16"
-    }
-]
+# data = [
+#     {
+#         "name": "raju",
+#         "age" : 18  
+#     },
+#     {
+#         "name":"prasant",
+#         "age" :"16"
+#     }
+# ]
 
-def get_names(details):
-    name1 = details[0]["name"]
-    name2 = details[1]["name"]
-    return [name1,name2]
-
-
+# def get_names(details):
+#     name1 = details[0]["name"]
+#     name2 = details[1]["name"]
+#     return [name1,name2]
 
 
-names = get_names(data)
 
-print("mubarak")
 
-print(names)
+# names = get_names(data)
+
+# # print("mubarak")
+
+# print(names)
+
+
+# print('hello,\ttejas here')
+
+    
+
+
